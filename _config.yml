@@ -1,13 +1,5 @@
 ---
 title: gdg
 timezone: America/New_York
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-description: gdg washington dc
-show_downloads: false
+show_downloads: 'false'
 theme: jekyll-theme-cayman
