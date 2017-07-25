@@ -1,6 +1,6 @@
 ---
-title: geodesicx
-timezone: UTC
+title: geodesic
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+Field name: 
