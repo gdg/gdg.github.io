@@ -2,5 +2,5 @@
 title: gdg
 description: gdg washington dc
 timezone: America/New_York
-show_downloads: "false"
+show_downloads: 'false'
 theme: jekyll-theme-cayman
